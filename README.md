@@ -1,4 +1,6 @@
-## Bem-vindo(a) ao perfil do Felipe 😁
+## Olá, eu sou o Felipe 😁
+
+## Estudante de ADS, apaixonado pela área da Tecnologia e desenvolvedor fullstack.
 
  <div>
    <a href="https://github.com/felpssm">
