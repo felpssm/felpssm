@@ -1,6 +1,13 @@
-## Olá, eu sou o Felipe 😁
+## Olá, eu sou o <strong>Felipe!</strong> 😁
+<br>
+<p align="left">
+Estudante de ADS, apaixonado pela área da Tecnologia e desenvolvedor fullstack! 💻
+<br>
+<br>
+</p>
 
-## Estudante de ADS, apaixonado pela área da Tecnologia e desenvolvedor fullstack.
+## **Linguagens e Ferramentas:**
+<br>
 
  <div>
    <a href="https://github.com/felpssm">
