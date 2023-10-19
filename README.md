@@ -1,7 +1,7 @@
 ## Olá, eu sou o <strong>Felipe!</strong> 😁
 <br>
 <p align="left">
-Estudante de ADS, apaixonado pela área da Tecnologia e desenvolvedor fullstack! 💻
+Estudante de ADS e desenvolvedor front-end! 💻
 <br>
 <br>
 </p>
