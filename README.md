@@ -1,10 +1,13 @@
 ## Olá, eu sou o <strong>Felipe!</strong> 😁
 <br>
 <p align="left">
-Estudante de ADS, BugHunter e QA Enginner em formação!! 💻
+ <strong>Estudante de ADS, BugHunter e QA Enginner em formação!! 💻</strong>
+ </p>
+ <br>
+  <p>Um apaixonado pela área da tecnologia em busca de novos desafios, estou migrando para a área dos Testes de Qualidade de Software, deixando pra trás o desenvolvimento web. Atualmente cursando Análise e Desenvolvimento de sistemas na Universidade Católica de Pelotas, onde aprofundo meu conhecimento em programação, desenvolvimento de sistemas e resolução de problemas complexos. Espero que logo consiga fazer parte de uma empresa onde poderia botar em prática tudo que aprendi até agora e aprender ainda mais!</p>
 <br>
 <br>
-</p>
+
 
 ## **Linguagens e Ferramentas:**
 <br>
@@ -14,7 +17,7 @@ Estudante de ADS, BugHunter e QA Enginner em formação!! 💻
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpssm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssm&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+    <br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
@@ -28,6 +31,7 @@ Estudante de ADS, BugHunter e QA Enginner em formação!! 💻
  
 </div>
  
+<br>
 <br>
  
 <div> 
