@@ -4,7 +4,7 @@
  <strong>Estudante de ADS, BugHunter e Desenvolvedor Python na It4us Cyber Security!! 💻</strong>
  </p>
  <br>
-  <p>Um apaixonado pela área da tecnologia em busca de novos desafios, estou migrando para a área dos Testes de Qualidade de Software, deixando pra trás o desenvolvimento web. Atualmente cursando Análise e Desenvolvimento de sistemas na Universidade Católica de Pelotas, onde aprofundo meu conhecimento em programação, desenvolvimento de sistemas e resolução de problemas complexos. Espero que logo consiga fazer parte de uma empresa onde poderia botar em prática tudo que aprendi até agora e aprender ainda mais!</p>
+  <p>Um apaixonado pela área da tecnologia em busca de novos desafios. Atualmente cursando Análise e Desenvolvimento de sistemas na Universidade Católica de Pelotas, onde aprofundo meu conhecimento em programação, desenvolvimento de sistemas e resolução de problemas complexos. Continuo em busca de conhecimento em cursos extracurriculares para me aprofundar mais no que há de novo no mercado, buscando para futuramente me tornar um Engeheiro de Software!</p>
 <br>
 <br>
 
