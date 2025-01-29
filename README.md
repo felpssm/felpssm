@@ -1,10 +1,25 @@
-## Olá, eu sou o <strong>Felipe!</strong> 😁
-<br>
 <p align="left">
- <strong>Estudante de ADS, BugHunter e Desenvolvedor Python na IT4US - Cyber Security!! 💻</strong>
+ <strong>👨‍💻 Felipe Ferreira | Bug Hunter | Desenvolvedor Python na IT4US - Cyber Security</strong>
  </p>
  <br>
-  <p>Um apaixonado pela área da tecnologia em busca de novos desafios. Atualmente cursando Análise e Desenvolvimento de sistemas na Universidade Católica de Pelotas, onde aprofundo meu conhecimento em programação, desenvolvimento de sistemas e resolução de problemas complexos. Continuo em busca de conhecimento em cursos extracurriculares para me aprofundar mais no que há de novo no mercado, buscando para futuramente me tornar um Engenheiro de Software!</p>
+  <p>Apaixonado por tecnologia e segurança da informação, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas, onde desenvolvo minhas habilidades em programação, desenvolvimento de sistemas e resolução de problemas complexos.
+
+Atualmente, atuo como Desenvolvedor Python na IT4US - Cyber Security, explorando soluções inovadoras para segurança cibernética e automação. Meu foco é escrever código eficiente, seguro e escalável, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+
+💡 Áreas de Interesse:
+✔ Segurança da Informação e Pentest
+✔ Desenvolvimento Backend 
+✔ Desenvolvimento FullStack
+✔ Automação e Análise de Dados
+✔ Engenharia de Software e DevOps
+
+🚀 Tecnologias que utilizo:
+🔹 Linguagens: Python, Java, JavaScript, TypeScript
+🔹 Frameworks: Django, React, Node.js, Next.js
+🔹 Banco de Dados: PostgreSQL, MySQL
+🔹 Ferramentas: Git, Docker
+
+Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e, futuramente, me tornar um Engenheiro de Software.</p>
 <br>
 <br>
 
