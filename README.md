@@ -2,27 +2,29 @@
  <strong>👨‍💻 Felipe Ferreira | Bug Hunter | Desenvolvedor Python na IT4US - Cyber Security</strong>
  </p>
  <br>
-  <p>Apaixonado por tecnologia e segurança da informação, sou estudante de Análise e Desenvolvimento de Sistemas na Universidade Católica de Pelotas, onde desenvolvo minhas habilidades em programação, desenvolvimento de sistemas e resolução de problemas complexos.
+<p>Apaixonado por tecnologia e segurança da informação, sou estudante de Análise e Desenvolvimento de Sistemas na <strong>Universidade Católica de Pelotas</strong>, onde desenvolvo minhas habilidades em programação, desenvolvimento de sistemas e resolução de problemas complexos.</p>
 
-Atualmente, atuo como Desenvolvedor Python na IT4US - Cyber Security, explorando soluções inovadoras para segurança cibernética e automação. Meu foco é escrever código eficiente, seguro e escalável, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+<p>Atualmente, atuo como <strong>Desenvolvedor Python na IT4US - Cyber Security</strong>, explorando soluções inovadoras para segurança cibernética e automação. Meu foco é escrever código eficiente, seguro e escalável, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
 
-💡 Áreas de Interesse:
-✔ Segurança da Informação e Pentest
-✔ Desenvolvimento Backend 
-✔ Desenvolvimento FullStack
-✔ Automação e Análise de Dados
-✔ Engenharia de Software e DevOps
+<p><strong>💡 Áreas de Interesse:</strong></p>
+<ul>
+    <li>✔ Segurança da Informação e Pentest</li>
+    <li>✔ Desenvolvimento Backend</li>
+    <li>✔ Desenvolvimento FullStack</li>
+    <li>✔ Automação e Análise de Dados</li>
+    <li>✔ Engenharia de Software e DevOps</li>
+</ul>
 
-🚀 Tecnologias que utilizo:
-🔹 Linguagens: Python, Java, JavaScript, TypeScript
-🔹 Frameworks: Django, React, Node.js, Next.js
-🔹 Banco de Dados: PostgreSQL, MySQL
-🔹 Ferramentas: Git, Docker
+<p><strong>🚀 Tecnologias que utilizo:</strong></p>
+<ul>
+    <li><strong>🔹 Linguagens:</strong> Python, Java, JavaScript, TypeScript</li>
+    <li><strong>🔹 Frameworks:</strong> Django, React, Node.js, Next.js</li>
+    <li><strong>🔹 Banco de Dados:</strong> PostgreSQL, MySQL</li>
+    <li><strong>🔹 Ferramentas:</strong> Git, Docker</li>
+</ul>
 
-Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e, futuramente, me tornar um Engenheiro de Software.</p>
-<br>
-<br>
-
+<p>Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e, futuramente, me tornar um Engenheiro de Software.</p>
+<br><br>
 
 ## **Linguagens e Ferramentas:**
 <br>
