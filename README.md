@@ -1,29 +1,29 @@
 <p align="left">
- <strong>👨‍💻 Felipe Ferreira Desenvolvedor Python na IT4US - Cyber Security</strong>
- </p>
- <br>
-<p>Apaixonado por tecnologia e segurança da informação, sou estudante de Análise e Desenvolvimento de Sistemas na <strong>Universidade Católica de Pelotas</strong>, onde desenvolvo minhas habilidades em programação, desenvolvimento de sistemas e resolução de problemas complexos.</p>
+  <strong>👨‍💻 Felipe Ferreira - Python Developer at IT4US - Cyber Security</strong>
+</p>
+<br>
+<p>Passionate about technology and cybersecurity, I am currently pursuing a degree in Systems Analysis and Development at <strong>Universidade Católica de Pelotas</strong>, where I have been sharpening my skills in programming, system development, and complex problem-solving.</p>
 
-<p>Atualmente, atuo como <strong>Desenvolvedor Python na IT4US - Cyber Security</strong>, explorando soluções inovadoras para segurança cibernética e automação. Meu foco é escrever código eficiente, seguro e escalável, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
+<p>I currently work as a <strong>Python Developer at IT4US - Cyber Security</strong>, focusing on building innovative solutions for cybersecurity and automation. My main goal is to write efficient, secure, and scalable code while continuously learning new technologies and improving my skills.</p>
 
-<p><strong>💡 Áreas de Interesse:</strong></p>
+<p><strong>💡 Areas of Interest:</strong></p>
 <ul>
-    <li>✔ Segurança da Informação e Pentest</li>
-    <li>✔ Desenvolvimento Backend</li>
-    <li>✔ Desenvolvimento FullStack</li>
-    <li>✔ Automação e Análise de Dados</li>
-    <li>✔ Engenharia de Software e DevOps</li>
+    <li>✔ Information Security and Penetration Testing</li>
+    <li>✔ Backend Development</li>
+    <li>✔ Fullstack Development</li>
+    <li>✔ Automation</li>
+    <li>✔ Software Engineering and DevOps</li>
 </ul>
 
-<p><strong>🚀 Tecnologias que utilizo:</strong></p>
+<p><strong>🚀 Technologies I work with:</strong></p>
 <ul>
-    <li><strong>🔹 Linguagens:</strong> Python, Java</li>
-    <li><strong>🔹 Frameworks:</strong> Django, SpringBoot</li>
-    <li><strong>🔹 Banco de Dados:</strong> PostgreSQL, MySQL</li>
-    <li><strong>🔹 Ferramentas:</strong> Git, Docker</li>
+    <li><strong>🔹 Languages:</strong> Python, Java</li>
+    <li><strong>🔹 Frameworks:</strong> Django, Spring Boot</li>
+    <li><strong>🔹 Databases:</strong> PostgreSQL, MySQL</li>
+    <li><strong>🔹 Tools:</strong> Git, Docker</li>
 </ul>
 
-<p>Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor e, futuramente, me tornar um Engenheiro de Software.</p>
+<p>I am always seeking new challenges and opportunities to grow as a developer, with the long-term goal of becoming a Software Engineer.</p>
 <br><br>
 
 ## **Linguagens e Ferramentas:**
