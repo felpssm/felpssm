@@ -1,5 +1,5 @@
 <p align="left">
- <strong>👨‍💻 Felipe Ferreira | Bug Hunter | Desenvolvedor Python na IT4US - Cyber Security</strong>
+ <strong>👨‍💻 Felipe Ferreira Desenvolvedor Python na IT4US - Cyber Security</strong>
  </p>
  <br>
 <p>Apaixonado por tecnologia e segurança da informação, sou estudante de Análise e Desenvolvimento de Sistemas na <strong>Universidade Católica de Pelotas</strong>, onde desenvolvo minhas habilidades em programação, desenvolvimento de sistemas e resolução de problemas complexos.</p>
@@ -17,8 +17,8 @@
 
 <p><strong>🚀 Tecnologias que utilizo:</strong></p>
 <ul>
-    <li><strong>🔹 Linguagens:</strong> Python, Java, JavaScript, TypeScript</li>
-    <li><strong>🔹 Frameworks:</strong> Django, React, Node.js, Next.js</li>
+    <li><strong>🔹 Linguagens:</strong> Python, Java</li>
+    <li><strong>🔹 Frameworks:</strong> Django, SpringBoot</li>
     <li><strong>🔹 Banco de Dados:</strong> PostgreSQL, MySQL</li>
     <li><strong>🔹 Ferramentas:</strong> Git, Docker</li>
 </ul>
