@@ -8,7 +8,6 @@
 
 <p><strong>💡 Areas of Interest:</strong></p>
 <ul>
-    <li>✔ Information Security and Penetration Testing</li>
     <li>✔ Backend Development</li>
     <li>✔ Fullstack Development</li>
     <li>✔ Automation</li>
@@ -17,8 +16,8 @@
 
 <p><strong>🚀 Technologies I work with:</strong></p>
 <ul>
-    <li><strong>🔹 Languages:</strong> Python, Java</li>
-    <li><strong>🔹 Frameworks:</strong> Django, Spring Boot</li>
+    <li><strong>🔹 Languages:</strong> Python, Java, JavaScript, Swift</li>
+    <li><strong>🔹 Frameworks/Libraries:</strong> Django, Spring Boot, React, Next.js, Node.js</li>
     <li><strong>🔹 Databases:</strong> PostgreSQL, MySQL</li>
     <li><strong>🔹 Tools:</strong> Git, Docker</li>
 </ul>
