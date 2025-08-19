@@ -18,7 +18,7 @@
 <ul>
     <li><strong>🔹 Languages:</strong> Python, Java, JavaScript, Swift</li>
     <li><strong>🔹 Frameworks/Libraries:</strong> Django, Spring Boot, React, Next.js, Node.js</li>
-    <li><strong>🔹 Databases:</strong> PostgreSQL, MySQL</li>
+    <li><strong>🔹 Databases:</strong> PostgreSQL, MongoDB</li>
     <li><strong>🔹 Tools:</strong> Git, Docker</li>
 </ul>
 
@@ -45,7 +45,7 @@
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 
 
