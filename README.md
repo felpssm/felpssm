@@ -1,5 +1,5 @@
 <p align="left">
-  <strong>👨‍💻 Felipe Ferreira - Python Developer at IT4US - Cyber Security</strong>
+  <strong>👨‍💻 Felipe Ferreira - Python & Java Developer at IT4US - Cyber Security</strong>
 </p>
 <br>
 <p>Passionate about technology and cybersecurity, I am currently pursuing a degree in Systems Analysis and Development at <strong>Universidade Católica de Pelotas</strong>, where I have been sharpening my skills in programming, system development, and complex problem-solving.</p>
@@ -16,10 +16,11 @@
 
 <p><strong>🚀 Technologies I work with:</strong></p>
 <ul>
-    <li><strong>🔹 Languages:</strong> Python, Java</li>
-    <li><strong>🔹 Frameworks/Libraries:</strong> Django, Spring Boot, React, Next.js, Node.js</li>
+    <li><strong>🔹 Languages:</strong> Python, Java, TypeScript</li>
+    <li><strong>🔹 Frameworks/Libraries:</strong> Django, Spring Boot, React, Next.js, Node.js, Thymeleaf</li>
     <li><strong>🔹 Databases:</strong> PostgreSQL, MongoDB</li>
-    <li><strong>🔹 Tools:</strong> Git, Docker</li>
+    <li><strong>🔹 Tools & Platforms:</strong> Git, Docker, Swagger, SonarQube, JaCoCo, Prometheus, Grafana, Spring Actuator, Design Patterns</li>
+    <li><strong>🔹 Messaging & Integration:</strong> Kafka, RabbitMQ</li>
 </ul>
 
 <p>I am always seeking new challenges and opportunities to grow as a developer, with the long-term goal of becoming a Software Engineer.</p>
@@ -28,7 +29,7 @@
 ## **Linguagens e Ferramentas:**
 <br>
 
- <div>
+<div>
    <a href="https://github.com/felpssm">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felpssm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpssm&layout=compact&langs_count=6&theme=tokyonight"/>
@@ -39,6 +40,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -46,8 +48,6 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-
-
 </div>
  
 <br>
@@ -56,6 +56,6 @@
 <div> 
   <a href="https://instagram.com/felpssf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/felpssf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href="mailto:feelpss.martinssf@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-ferreira-893693149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:felpss.dev@gmail.com"><img src="https://img.shields.io/badge/-gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felpssdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
