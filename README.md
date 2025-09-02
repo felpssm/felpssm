@@ -1,5 +1,5 @@
 <p align="left">
-  <strong>👨‍💻 Felipe Ferreira - Python & Java Developer at IT4US - Cyber Security</strong>
+  <strong>👨‍💻 Felipe Ferreira - Python & Java Developer</strong>
 </p>
 <br>
 <p>Passionate about technology and cybersecurity, I am currently pursuing a degree in Systems Analysis and Development at <strong>Universidade Católica de Pelotas</strong>, where I have been sharpening my skills in programming, system development, and complex problem-solving.</p>
